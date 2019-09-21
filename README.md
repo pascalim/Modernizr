@@ -104,6 +104,14 @@ http://localhost:8080/test/unit.html
 http://localhost:8080/test/integration.html
 ```
  
+## Deprecation
+
+These tests are considered deprecated. They are not included anymore in the default build
+and will re removed in the next major version:
+
+- `touchevents` (in 3.9)
+- `unicode` (in 3.9) 
+
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
